@@ -1,4 +1,3 @@
-
 class Player {
     constructor(name, hitsPerMinute) {
       this.name = name;
